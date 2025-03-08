@@ -1,2 +1,0 @@
-Plan: Setting up Android SDK Development Environment (details in prior turn)
-Plan: Setting up Android SDK Development Environment
