@@ -31,3 +31,12 @@
 *   `tutorial__load_tutorial`: `tlt`
 *   `platform__read_resource`: `prr`
 *   `platform__list_resources`: `plr`
+*   `knowledgegraphmemory__create_entities`: `kmce`
+*   `knowledgegraphmemory__create_relations`: `kmcr`
+*   `knowledgegraphmemory__add_observations`: `kmao`
+*   `knowledgegraphmemory__delete_entities`: `kmde`
+*   `knowledgegraphmemory__delete_observations`: `kmdo`
+*   `knowledgegraphmemory__delete_relations`: `kmdr`
+*   `knowledgegraphmemory__read_graph`: `kmrg`
+*   `knowledgegraphmemory__search_nodes`: `kmsn`
+*   `knowledgegraphmemory__open_nodes`: `kmon`
